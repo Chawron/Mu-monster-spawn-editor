@@ -1,0 +1,418 @@
+//=========================================================================================================================================
+// MONSTERS
+//=========================================================================================================================================
+4
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+015            09             30         135            092            -1             //Skeleton Archer
+015            09             30         124            082            -1             //Skeleton Archer
+015            09             30         135            102            -1             //Skeleton Archer
+015            09             30         131            087            -1             //Skeleton Archer
+015            09             30         126            083            -1             //Skeleton Archer
+015            09             30         146            087            -1             //Skeleton Archer
+015            09             30         128            096            -1             //Skeleton Archer
+015            09             30         139            098            -1             //Skeleton Archer
+015            09             30         134            109            -1             //Skeleton Archer
+015            09             30         146            102            -1             //Skeleton Archer
+015            09             30         127            089            -1             //Skeleton Archer
+015            09             30         144            098            -1             //Skeleton Archer
+015            09             30         148            097            -1             //Skeleton Archer
+015            09             30         134            095            -1             //Skeleton Archer
+015            09             30         128            103            -1             //Skeleton Archer
+015            09             30         148            101            -1             //Skeleton Archer
+015            09             30         130            109            -1             //Skeleton Archer
+015            09             30         122            086            -1             //Skeleton Archer
+015            09             30         129            090            -1             //Skeleton Archer
+015            09             30         121            100            -1             //Skeleton Archer
+017            09             30         145            096            -1             //Cyclops
+017            09             30         129            105            -1             //Cyclops
+017            09             30         147            094            -1             //Cyclops
+017            09             30         133            087            -1             //Cyclops
+017            09             30         141            104            -1             //Cyclops
+017            09             30         144            102            -1             //Cyclops
+017            09             30         143            109            -1             //Cyclops
+017            09             30         127            085            -1             //Cyclops
+017            09             30         141            097            -1             //Cyclops
+017            09             30         135            094            -1             //Cyclops
+017            09             30         142            103            -1             //Cyclops
+017            09             30         128            097            -1             //Cyclops
+017            09             30         128            084            -1             //Cyclops
+017            09             30         134            095            -1             //Cyclops
+017            09             30         121            084            -1             //Cyclops
+017            09             30         139            100            -1             //Cyclops
+017            09             30         141            108            -1             //Cyclops
+017            09             30         145            091            -1             //Cyclops
+017            09             30         145            085            -1             //Cyclops
+017            09             30         145            100            -1             //Cyclops
+005            09             30         148            108            -1             //Hell Hound
+005            09             30         148            090            -1             //Hell Hound
+005            09             30         132            103            -1             //Hell Hound
+005            09             30         129            102            -1             //Hell Hound
+005            09             30         143            086            -1             //Hell Hound
+005            09             30         140            104            -1             //Hell Hound
+005            09             30         146            106            -1             //Hell Hound
+005            09             30         134            105            -1             //Hell Hound
+005            09             30         134            106            -1             //Hell Hound
+005            09             30         124            109            -1             //Hell Hound
+005            09             30         141            083            -1             //Hell Hound
+005            09             30         136            085            -1             //Hell Hound
+005            09             30         131            098            -1             //Hell Hound
+005            09             30         121            083            -1             //Hell Hound
+005            09             30         138            107            -1             //Hell Hound
+009            09             30         142            109            -1             //Thunder Lich
+009            09             30         143            088            -1             //Thunder Lich
+009            09             30         146            096            -1             //Thunder Lich
+009            09             30         146            101            -1             //Thunder Lich
+009            09             30         139            082            -1             //Thunder Lich
+009            09             30         139            099            -1             //Thunder Lich
+009            09             30         137            105            -1             //Thunder Lich
+009            09             30         134            108            -1             //Thunder Lich
+009            09             30         128            109            -1             //Thunder Lich
+009            09             30         139            090            -1             //Thunder Lich
+009            09             30         148            096            -1             //Thunder Lich
+009            09             30         127            092            -1             //Thunder Lich
+009            09             30         144            097            -1             //Thunder Lich
+009            09             30         127            095            -1             //Thunder Lich
+009            09             30         121            107            -1             //Thunder Lich
+010            09             30         130            096            -1             //Dark Knight
+010            09             30         137            090            -1             //Dark Knight
+010            09             30         137            093            -1             //Dark Knight
+010            09             30         131            094            -1             //Dark Knight
+010            09             30         133            102            -1             //Dark Knight
+010            09             30         124            091            -1             //Dark Knight
+010            09             30         141            082            -1             //Dark Knight
+010            09             30         142            105            -1             //Dark Knight
+010            09             30         132            086            -1             //Dark Knight
+010            09             30         136            090            -1             //Dark Knight
+016            09             30         121            082            -1             //Chief Skeleton Warrior
+016            09             30         123            100            -1             //Chief Skeleton Warrior
+016            09             30         141            094            -1             //Chief Skeleton Warrior
+016            09             30         124            090            -1             //Chief Skeleton Warrior
+016            09             30         137            090            -1             //Chief Skeleton Warrior
+016            09             30         130            098            -1             //Chief Skeleton Warrior
+016            09             30         144            089            -1             //Chief Skeleton Warrior
+016            09             30         124            092            -1             //Chief Skeleton Warrior
+016            09             30         140            102            -1             //Chief Skeleton Warrior
+016            09             30         130            086            -1             //Chief Skeleton Warrior
+018            09             30         132            096            -1             //Gorgon
+018            09             30         124            107            -1             //Gorgon
+018            09             30         132            084            -1             //Gorgon
+018            09             30         132            105            -1             //Gorgon
+018            09             30         133            100            -1             //Gorgon
+018            09             30         122            086            -1             //Gorgon
+018            09             30         126            094            -1             //Gorgon
+018            09             30         148            101            -1             //Gorgon
+018            09             30         140            090            -1             //Gorgon
+018            09             30         139            106            -1             //Gorgon
+end
+
+4
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+036            09             30         137            164            -1             //Shadow
+036            09             30         126            154            -1             //Shadow
+036            09             30         137            174            -1             //Shadow
+036            09             30         133            159            -1             //Shadow
+036            09             30         128            155            -1             //Shadow
+036            09             30         148            159            -1             //Shadow
+036            09             30         130            168            -1             //Shadow
+036            09             30         141            170            -1             //Shadow
+036            09             30         136            181            -1             //Shadow
+036            09             30         148            174            -1             //Shadow
+036            09             30         129            161            -1             //Shadow
+036            09             30         146            170            -1             //Shadow
+036            09             30         150            169            -1             //Shadow
+036            09             30         136            167            -1             //Shadow
+036            09             30         130            175            -1             //Shadow
+036            09             30         150            173            -1             //Shadow
+036            09             30         132            181            -1             //Shadow
+036            09             30         124            158            -1             //Shadow
+036            09             30         131            162            -1             //Shadow
+036            09             30         123            172            -1             //Shadow
+039            09             30         147            168            -1             //Poison Shadow
+039            09             30         131            177            -1             //Poison Shadow
+039            09             30         149            166            -1             //Poison Shadow
+039            09             30         135            159            -1             //Poison Shadow
+039            09             30         143            176            -1             //Poison Shadow
+039            09             30         146            174            -1             //Poison Shadow
+039            09             30         145            181            -1             //Poison Shadow
+039            09             30         129            157            -1             //Poison Shadow
+039            09             30         143            169            -1             //Poison Shadow
+039            09             30         137            166            -1             //Poison Shadow
+039            09             30         144            175            -1             //Poison Shadow
+039            09             30         130            169            -1             //Poison Shadow
+039            09             30         130            156            -1             //Poison Shadow
+039            09             30         136            167            -1             //Poison Shadow
+039            09             30         123            156            -1             //Poison Shadow
+039            09             30         141            172            -1             //Poison Shadow
+039            09             30         143            180            -1             //Poison Shadow
+039            09             30         147            163            -1             //Poison Shadow
+039            09             30         147            157            -1             //Poison Shadow
+039            09             30         147            172            -1             //Poison Shadow
+034            09             30         150            180            -1             //Cursed Wizard
+034            09             30         150            162            -1             //Cursed Wizard
+034            09             30         134            175            -1             //Cursed Wizard
+034            09             30         131            174            -1             //Cursed Wizard
+034            09             30         145            158            -1             //Cursed Wizard
+034            09             30         142            176            -1             //Cursed Wizard
+034            09             30         148            178            -1             //Cursed Wizard
+034            09             30         136            177            -1             //Cursed Wizard
+034            09             30         136            178            -1             //Cursed Wizard
+034            09             30         126            181            -1             //Cursed Wizard
+034            09             30         143            155            -1             //Cursed Wizard
+034            09             30         138            157            -1             //Cursed Wizard
+034            09             30         133            170            -1             //Cursed Wizard
+034            09             30         123            155            -1             //Cursed Wizard
+034            09             30         140            179            -1             //Cursed Wizard
+041            09             30         144            181            -1             //Death Cow
+041            09             30         145            160            -1             //Death Cow
+041            09             30         148            168            -1             //Death Cow
+041            09             30         148            173            -1             //Death Cow
+041            09             30         141            154            -1             //Death Cow
+041            09             30         141            171            -1             //Death Cow
+041            09             30         139            177            -1             //Death Cow
+041            09             30         136            180            -1             //Death Cow
+041            09             30         130            181            -1             //Death Cow
+041            09             30         141            162            -1             //Death Cow
+041            09             30         150            168            -1             //Death Cow
+041            09             30         129            164            -1             //Death Cow
+041            09             30         146            169            -1             //Death Cow
+041            09             30         129            167            -1             //Death Cow
+041            09             30         123            179            -1             //Death Cow
+035            09             30         132            168            -1             //Death Gorgon
+035            09             30         139            162            -1             //Death Gorgon
+035            09             30         139            165            -1             //Death Gorgon
+035            09             30         133            166            -1             //Death Gorgon
+035            09             30         135            174            -1             //Death Gorgon
+035            09             30         126            163            -1             //Death Gorgon
+035            09             30         143            154            -1             //Death Gorgon
+035            09             30         144            177            -1             //Death Gorgon
+035            09             30         134            158            -1             //Death Gorgon
+035            09             30         138            162            -1             //Death Gorgon
+040            09             30         123            154            -1             //Death Knight
+040            09             30         125            172            -1             //Death Knight
+040            09             30         143            166            -1             //Death Knight
+040            09             30         126            162            -1             //Death Knight
+040            09             30         139            162            -1             //Death Knight
+040            09             30         132            170            -1             //Death Knight
+040            09             30         146            161            -1             //Death Knight
+040            09             30         126            164            -1             //Death Knight
+040            09             30         142            174            -1             //Death Knight
+040            09             30         132            158            -1             //Death Knight
+038            09             30         134            168            -1             //Balrog
+038            09             30         126            179            -1             //Balrog
+038            09             30         134            156            -1             //Balrog
+038            09             30         134            177            -1             //Balrog
+038            09             30         135            172            -1             //Balrog
+038            09             30         124            158            -1             //Balrog
+038            09             30         128            166            -1             //Balrog
+038            09             30         150            173            -1             //Balrog
+038            09             30         142            162            -1             //Balrog
+038            09             30         141            178            -1             //Balrog
+end
+
+4
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+045            09             30         065            150            -1             //Bahamut
+045            09             30         054            140            -1             //Bahamut
+045            09             30         065            160            -1             //Bahamut
+045            09             30         061            145            -1             //Bahamut
+045            09             30         056            141            -1             //Bahamut
+045            09             30         076            145            -1             //Bahamut
+045            09             30         058            154            -1             //Bahamut
+045            09             30         069            156            -1             //Bahamut
+045            09             30         064            167            -1             //Bahamut
+045            09             30         076            160            -1             //Bahamut
+045            09             30         057            147            -1             //Bahamut
+045            09             30         074            156            -1             //Bahamut
+045            09             30         078            155            -1             //Bahamut
+045            09             30         064            153            -1             //Bahamut
+045            09             30         058            161            -1             //Bahamut
+045            09             30         078            159            -1             //Bahamut
+045            09             30         060            167            -1             //Bahamut
+045            09             30         052            144            -1             //Bahamut
+045            09             30         059            148            -1             //Bahamut
+045            09             30         051            158            -1             //Bahamut
+046            09             30         075            154            -1             //Vepar
+046            09             30         059            163            -1             //Vepar
+046            09             30         077            152            -1             //Vepar
+046            09             30         063            145            -1             //Vepar
+046            09             30         071            162            -1             //Vepar
+046            09             30         074            160            -1             //Vepar
+046            09             30         073            167            -1             //Vepar
+046            09             30         057            143            -1             //Vepar
+046            09             30         071            155            -1             //Vepar
+046            09             30         065            152            -1             //Vepar
+046            09             30         072            161            -1             //Vepar
+046            09             30         058            155            -1             //Vepar
+046            09             30         058            142            -1             //Vepar
+046            09             30         064            153            -1             //Vepar
+046            09             30         051            142            -1             //Vepar
+046            09             30         069            158            -1             //Vepar
+046            09             30         071            166            -1             //Vepar
+046            09             30         075            149            -1             //Vepar
+046            09             30         075            143            -1             //Vepar
+046            09             30         075            158            -1             //Vepar
+037            09             30         078            166            -1             //Devil
+037            09             30         078            148            -1             //Devil
+037            09             30         062            161            -1             //Devil
+037            09             30         059            160            -1             //Devil
+037            09             30         073            144            -1             //Devil
+037            09             30         070            162            -1             //Devil
+037            09             30         076            164            -1             //Devil
+037            09             30         064            163            -1             //Devil
+037            09             30         064            164            -1             //Devil
+037            09             30         054            167            -1             //Devil
+037            09             30         071            141            -1             //Devil
+037            09             30         066            143            -1             //Devil
+037            09             30         061            156            -1             //Devil
+037            09             30         051            141            -1             //Devil
+037            09             30         068            165            -1             //Devil
+051            09             30         072            167            -1             //Great Bahamut
+051            09             30         073            146            -1             //Great Bahamut
+051            09             30         076            154            -1             //Great Bahamut
+051            09             30         076            159            -1             //Great Bahamut
+051            09             30         069            140            -1             //Great Bahamut
+051            09             30         069            157            -1             //Great Bahamut
+051            09             30         067            163            -1             //Great Bahamut
+051            09             30         064            166            -1             //Great Bahamut
+051            09             30         058            167            -1             //Great Bahamut
+051            09             30         069            148            -1             //Great Bahamut
+051            09             30         078            154            -1             //Great Bahamut
+051            09             30         057            150            -1             //Great Bahamut
+051            09             30         074            155            -1             //Great Bahamut
+051            09             30         057            153            -1             //Great Bahamut
+051            09             30         051            165            -1             //Great Bahamut
+048            09             30         060            154            -1             //Lizard King
+048            09             30         067            148            -1             //Lizard King
+048            09             30         067            151            -1             //Lizard King
+048            09             30         061            152            -1             //Lizard King
+048            09             30         063            160            -1             //Lizard King
+048            09             30         054            149            -1             //Lizard King
+048            09             30         071            140            -1             //Lizard King
+048            09             30         072            163            -1             //Lizard King
+048            09             30         062            144            -1             //Lizard King
+048            09             30         066            148            -1             //Lizard King
+052            09             30         051            140            -1             //Silver Valkyrie
+052            09             30         053            158            -1             //Silver Valkyrie
+052            09             30         071            152            -1             //Silver Valkyrie
+052            09             30         054            148            -1             //Silver Valkyrie
+052            09             30         067            148            -1             //Silver Valkyrie
+052            09             30         060            156            -1             //Silver Valkyrie
+052            09             30         074            147            -1             //Silver Valkyrie
+052            09             30         054            150            -1             //Silver Valkyrie
+052            09             30         070            160            -1             //Silver Valkyrie
+052            09             30         060            144            -1             //Silver Valkyrie
+049            09             30         062            154            -1             //Hydra
+049            09             30         054            165            -1             //Hydra
+049            09             30         062            142            -1             //Hydra
+049            09             30         062            163            -1             //Hydra
+049            09             30         063            158            -1             //Hydra
+049            09             30         052            144            -1             //Hydra
+049            09             30         056            152            -1             //Hydra
+049            09             30         078            159            -1             //Hydra
+049            09             30         070            148            -1             //Hydra
+049            09             30         069            164            -1             //Hydra
+end
+
+4
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+064            09             30         069            086            -1             //Ogre archer
+064            09             30         058            076            -1             //Ogre archer
+064            09             30         069            096            -1             //Ogre archer
+064            09             30         065            081            -1             //Ogre archer
+064            09             30         060            077            -1             //Ogre archer
+064            09             30         080            081            -1             //Ogre archer
+064            09             30         062            090            -1             //Ogre archer
+064            09             30         073            092            -1             //Ogre archer
+064            09             30         068            103            -1             //Ogre archer
+064            09             30         080            096            -1             //Ogre archer
+064            09             30         061            083            -1             //Ogre archer
+064            09             30         078            092            -1             //Ogre archer
+064            09             30         082            091            -1             //Ogre archer
+064            09             30         068            089            -1             //Ogre archer
+064            09             30         062            097            -1             //Ogre archer
+064            09             30         082            095            -1             //Ogre archer
+064            09             30         064            103            -1             //Ogre archer
+064            09             30         056            080            -1             //Ogre archer
+064            09             30         063            084            -1             //Ogre archer
+064            09             30         055            094            -1             //Ogre archer
+065            09             30         079            090            -1             //Elite Ogre
+065            09             30         063            099            -1             //Elite Ogre
+065            09             30         081            088            -1             //Elite Ogre
+065            09             30         067            081            -1             //Elite Ogre
+065            09             30         075            098            -1             //Elite Ogre
+065            09             30         078            096            -1             //Elite Ogre
+065            09             30         077            103            -1             //Elite Ogre
+065            09             30         061            079            -1             //Elite Ogre
+065            09             30         075            091            -1             //Elite Ogre
+065            09             30         069            088            -1             //Elite Ogre
+065            09             30         076            097            -1             //Elite Ogre
+065            09             30         062            091            -1             //Elite Ogre
+065            09             30         062            078            -1             //Elite Ogre
+065            09             30         068            089            -1             //Elite Ogre
+065            09             30         055            078            -1             //Elite Ogre
+065            09             30         073            094            -1             //Elite Ogre
+065            09             30         075            102            -1             //Elite Ogre
+065            09             30         079            085            -1             //Elite Ogre
+065            09             30         079            079            -1             //Elite Ogre
+065            09             30         079            094            -1             //Elite Ogre
+290            09             30         082            102            -1             //Lizard Warrior
+290            09             30         082            084            -1             //Lizard Warrior
+290            09             30         066            097            -1             //Lizard Warrior
+290            09             30         063            096            -1             //Lizard Warrior
+290            09             30         077            080            -1             //Lizard Warrior
+290            09             30         074            098            -1             //Lizard Warrior
+290            09             30         080            100            -1             //Lizard Warrior
+290            09             30         068            099            -1             //Lizard Warrior
+290            09             30         068            100            -1             //Lizard Warrior
+290            09             30         058            103            -1             //Lizard Warrior
+290            09             30         075            077            -1             //Lizard Warrior
+290            09             30         070            079            -1             //Lizard Warrior
+290            09             30         065            092            -1             //Lizard Warrior
+290            09             30         055            077            -1             //Lizard Warrior
+290            09             30         072            101            -1             //Lizard Warrior
+294            09             30         076            103            -1             //Ax Warrior
+294            09             30         077            082            -1             //Ax Warrior
+294            09             30         080            090            -1             //Ax Warrior
+294            09             30         080            095            -1             //Ax Warrior
+294            09             30         073            076            -1             //Ax Warrior
+294            09             30         073            093            -1             //Ax Warrior
+294            09             30         071            099            -1             //Ax Warrior
+294            09             30         068            102            -1             //Ax Warrior
+294            09             30         062            103            -1             //Ax Warrior
+294            09             30         073            084            -1             //Ax Warrior
+294            09             30         082            090            -1             //Ax Warrior
+294            09             30         061            086            -1             //Ax Warrior
+294            09             30         078            091            -1             //Ax Warrior
+294            09             30         061            089            -1             //Ax Warrior
+294            09             30         055            101            -1             //Ax Warrior
+061            09             30         064            090            -1             //Beam Knight
+061            09             30         071            084            -1             //Beam Knight
+061            09             30         071            087            -1             //Beam Knight
+061            09             30         065            088            -1             //Beam Knight
+061            09             30         067            096            -1             //Beam Knight
+061            09             30         058            085            -1             //Beam Knight
+061            09             30         075            076            -1             //Beam Knight
+061            09             30         076            099            -1             //Beam Knight
+061            09             30         066            080            -1             //Beam Knight
+061            09             30         070            084            -1             //Beam Knight
+070            09             30         055            076            -1             //Queen Rainier
+070            09             30         057            094            -1             //Queen Rainier
+070            09             30         075            088            -1             //Queen Rainier
+070            09             30         058            084            -1             //Queen Rainier
+070            09             30         071            084            -1             //Queen Rainier
+070            09             30         064            092            -1             //Queen Rainier
+070            09             30         078            083            -1             //Queen Rainier
+070            09             30         058            086            -1             //Queen Rainier
+070            09             30         074            096            -1             //Queen Rainier
+070            09             30         064            080            -1             //Queen Rainier
+063            09             30         066            090            -1             //Death Beam Knight
+063            09             30         058            101            -1             //Death Beam Knight
+063            09             30         066            078            -1             //Death Beam Knight
+063            09             30         066            099            -1             //Death Beam Knight
+063            09             30         067            094            -1             //Death Beam Knight
+063            09             30         056            080            -1             //Death Beam Knight
+063            09             30         060            088            -1             //Death Beam Knight
+063            09             30         082            095            -1             //Death Beam Knight
+063            09             30         074            084            -1             //Death Beam Knight
+063            09             30         073            100            -1             //Death Beam Knight
+end

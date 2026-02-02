@@ -1,0 +1,71 @@
+//=========================================================================================================================================
+// NPCS
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+226           0             0           122           110           3             //Trainer
+230           0             0           62            130           3             //Wandering Merchant Alex
+250           0             0           183           137           2             //Wandering Merchant
+253           0             0           127           86            2             //Potion Girl Amy
+251           0             0           116           141           3             //Hanzo the Blacksmith
+255           0             0           123           135           1             //Lumen the Barmaid
+246           0             5           126           135           1             //Weapons Merchant Zienna
+254           0             0           118           113           3             //Pasi the Mage
+249           0             10          131           88            1             //Guard
+249           0             20          173           125           3             //Guard
+249           0             20          94            130           7             //Guard
+249           0             20          94            125           7             //Guard
+249           0             30          131           148           1             //Guard
+240           0             0           147           145           1             //Safety Guardian
+240           0             0           146           110           3             //Safety Guardian
+257           0             0           96            129           1             //Shadow Phantom Soldier
+375           0             0           132           161           3             //Chaos Card Master
+257           0             0           132           165           3             //Shadow Phantom Soldier
+257           0             0           132           90            3             //Shadow Phantom Soldier
+257           0             0           170           129           1             //Shadow Phantom Soldier
+547           0             0           139           138           3             //Market Union Member Julia
+543           0             0           137           121           3             //Gens Duprian Steward
+544           0             0           137           133           3             //Gens Vanert Steward
+540           0             0           130           128           3             //Lugard
+522           0             0           130           126           3             //Jerint the Assistant
+251           0             0           119           142           3             //Hanzo the Blacksmith
+217           0             0           154           180           3             //Crown Switch 2
+218           0             0           154           183           3             //Crown Switch 1
+380           0             0           130           134           3             //Stone Statue
+415           0             0           130           143           2             //Silvia
+585           0             0           124           143           2             //Unknown
+620           0             0           127           143           2             //Unknown
+end
+
+//=========================================================================================================================================
+// MONSTERS
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+3             0             30          180           90            226           244           -1            30            //Spider
+2             0             30          180           90            226           244           -1            30            //Budge Dragon
+2             0             30          135           20            240           88            -1            20            //Budge Dragon
+0             0             30          135           20            240           88            -1            45            //Bull Fighter
+6             0             30          95            168           175           244           -1            20            //LIch
+14            0             30          95            168           175           244           -1            15            //Skeleton
+1             0             30          8             11            94            244           -1            45            //Hound
+4             0             30          8             11            94            244           -1            45            //Elite Bull Fighter
+7             0             30          8             11            60            80            -1            15            //Giant
+3             0             2           181           128           181           128           -1            15            //Spider
+2             0             2           181           128           181           128           -1            2             //Budge Dragon
+0             0             2           138           79            138           79            -1            15            //Bull Fighter
+6             0             2           133           177           133           177           -1            15            //LIch
+14            0             2           133           177           133           177           -1            15            //Skeleton
+1             0             2           90            126           90            126           -1            20            //Hound
+4             0             2           90            126           90            126           -1            20            //Elite Bull Fighter
+2             0             30          184           119           184           119           -1            5             //Budge Dragon
+2             0             30          198           126           198           126           -1            2             //Budge Dragon
+3             0             30          206           151           206           151           -1            2             //Spider
+2             0             30          206           151           206           151           -1            2             //Budge Dragon
+3             0             30          224           168           224           168           -1            2             //Spider
+2             0             30          224           168           224           168           -1            2             //Budge Dragon
+580           0             5           176           125           176           125           -1            1             //Unknown
+6             0             30          137           51            137           51            -1            1             //LIch
+6             0             30          138           65            138           65            -1            15            //LIch
+3             0             30          121           43            121           43            -1            15            //Spider
+end

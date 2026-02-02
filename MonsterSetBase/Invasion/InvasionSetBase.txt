@@ -1,0 +1,117 @@
+//=========================================================================================================================================
+// [EVENTS] Npc Invasion
+//=========================================================================================================================================
+5
+//Monster      MapNumber      Range        PositionX      PositionY      Direction      Value      Comment
+255            00             00           134            116            2              0          //Death King
+end
+
+//=========================================================================================================================================
+// [EVENTS] Monster Invasion
+//=========================================================================================================================================
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+055            00             30         125            190            140          203          -1             01            0          //Death King
+056            00             30         125            190            140          203          -1             10            0          //Death Bone
+055            03             30         195            070            205          086          -1             01            0          //Death King
+056            03             30         195            070            205          086          -1             10            0          //Death Bone
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+042            00             30         010            010            240          240          -1             01            0          //Red Dragon
+042            02             30         010            010            240          240          -1             01            0          //Red Dragon
+042            03             30         010            010            240          240          -1             01            0          //Red Dragon
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+043            00             30         010            010            240          240          -1             05            0          //Golden Budge Dragon
+053            02             30         010            010            240          240          -1             05            0          //Golden Titan
+054            02             30         010            010            240          240          -1             05            0          //Golden Soldier
+078            03             30         010            010            240          240          -1             05            0          //Golden Goblin
+079            00             30         010            010            240          240          -1             01            0          //Golden Derkon
+079            02             30         010            010            240          240          -1             01            0          //Golden Derkon
+079            03             30         010            010            240          240          -1             01            0          //Golden Derkon
+079            51             30         010            010            240          240          -1             01            0          //Golden Derkon
+080            07             30         010            010            240          240          -1             03            0          //Golden Lizard King
+081            07             30         010            010            240          240          -1             05            0          //Golden Vepar
+082            08             30         010            010            240          240          -1             03            0          //Golden Tantalos
+083            08             30         010            010            240          240          -1             05            0          //Golden Wheel
+493            01             30         002            052            043          125          -1             03            0          //Golden Dark Knight
+494            04             30         010            010            240          240          -1             03            0          //Golden Devil
+495            33             30         010            010            240          240          -1             03            0          //Golden Stone Golem
+496            10             30         010            010            240          240          -1             03            0          //Golden Crust
+497            37             30         010            010            240          240          -1             03            0          //Golden Satyros
+498            38             30         010            010            240          240          -1             03            0          //Golden Twin Tail
+499            57             30         010            010            240          240          -1             03            0          //Golden Iron Knight
+500            56             30         010            010            240          240          -1             03            0          //Golden Napin
+501            37             30         010            010            240          240          -1             01            0          //Great Golden Dragon
+501            57             30         010            010            240          240          -1             01            0          //Great Golden Dragon
+502            51             30         010            010            240          240          -1             05            0          //Golden Rabbit
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+135            00             30         148            047            164          065          -1             01            0          //White wizard
+136            00             30         148            047            164          065          -1             10            0          //Destructive ogre soldier
+137            00             30         148            047            164          065          -1             10            0          //Destructive ogre archer
+135            02             30         158            012            167          024          -1             01            0          //White wizard
+136            02             30         158            012            167          024          -1             10            0          //Destructive ogre soldier
+137            02             30         158            012            167          024          -1             10            0          //Destructive ogre archer
+135            03             30         194            070            204          086          -1             01            0          //White wizard
+136            03             30         194            070            204          086          -1             10            0          //Destructive ogre soldier
+137            03             30         194            070            204          086          -1             10            0          //Destructive ogre archer
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+365            04             30         010            010            240          240          -1             10            0          //Pouch of Blessing
+365            07             30         010            010            240          240          -1             10            0          //Pouch of Blessing
+365            08             30         010            010            240          240          -1             10            0          //Pouch of Blessing
+365            33             30         010            010            240          240          -1             10            0          //Pouch of Blessing
+365            37             30         010            010            240          240          -1             10            0          //Pouch of Blessing
+365            57             30         010            010            240          240          -1             10            0          //Pouch of Blessing
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+413            04             30         010            010            240          240          -1             10            0          //Lunar Rabbit
+413            07             30         010            010            240          240          -1             10            0          //Lunar Rabbit
+413            08             30         010            010            240          240          -1             10            0          //Lunar Rabbit
+413            33             30         010            010            240          240          -1             10            0          //Lunar Rabbit
+413            37             30         010            010            240          240          -1             10            0          //Lunar Rabbit
+413            57             30         010            010            240          240          -1             10            0          //Lunar Rabbit
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+463            04             30         010            010            240          240          -1             10            0          //
+463            07             30         010            010            240          240          -1             10            0          //
+463            08             30         010            010            240          240          -1             10            0          //
+463            33             30         010            010            240          240          -1             10            0          //
+463            37             30         010            010            240          240          -1             10            0          //
+463            57             30         010            010            240          240          -1             10            0          //
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+466            00             30         148            047            164          065          -1             10            0          //Cursed Goblin
+476            00             30         148            047            164          065          -1             01            0          //Cursed Santa
+466            02             30         158            012            167          024          -1             10            0          //Cursed Goblin
+476            02             30         158            012            167          024          -1             01            0          //Cursed Santa
+466            03             30         194            070            204          086          -1             10            0          //Cursed Goblin
+476            03             30         194            070            204          086          -1             01            0          //Cursed Santa
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+560            56             30         050            103            057          114          -1             07            0          //Sapi Queen
+560            56             30         127            162            136          171          -1             07            1          //Sapi Queen
+560            56             30         149            010            162          019          -1             07            2          //Sapi Queen
+560            56             30         178            114            184          129          -1             07            3          //Sapi Queen
+561            56             30         050            103            057          114          -1             01            0          //Medusa
+561            56             30         127            162            136          171          -1             01            1          //Medusa
+561            56             30         149            010            162          019          -1             01            2          //Medusa
+561            56             30         178            114            184          129          -1             01            3          //Medusa
+end

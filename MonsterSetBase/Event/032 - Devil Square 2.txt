@@ -1,0 +1,324 @@
+//=========================================================================================================================================
+// MONSTERS
+//=========================================================================================================================================
+4
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+294            32             30         120            080            150          115          -1             35            //Ax Warrior
+060            32             30         120            080            150          115          -1             35            //Bloody wolf
+290            32             30         122            152            151          184          -1             35            //Lizard Warrior
+057            32             30         122            152            151          184          -1             35            //Iron Wheel
+434            32             30         050            138            079          173          -1             35            //Gigantis
+435            32             30         050            138            079          173          -1             35            //Berserker
+end
+
+4
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+060            32             30         136            092            -1             //Bloody wolf
+060            32             30         125            082            -1             //Bloody wolf
+060            32             30         136            102            -1             //Bloody wolf
+060            32             30         132            087            -1             //Bloody wolf
+060            32             30         127            083            -1             //Bloody wolf
+060            32             30         147            087            -1             //Bloody wolf
+060            32             30         129            096            -1             //Bloody wolf
+060            32             30         140            098            -1             //Bloody wolf
+060            32             30         135            109            -1             //Bloody wolf
+060            32             30         147            102            -1             //Bloody wolf
+060            32             30         128            089            -1             //Bloody wolf
+060            32             30         145            098            -1             //Bloody wolf
+060            32             30         149            097            -1             //Bloody wolf
+060            32             30         135            095            -1             //Bloody wolf
+060            32             30         129            103            -1             //Bloody wolf
+060            32             30         149            101            -1             //Bloody wolf
+060            32             30         131            109            -1             //Bloody wolf
+060            32             30         123            086            -1             //Bloody wolf
+060            32             30         130            090            -1             //Bloody wolf
+060            32             30         122            100            -1             //Bloody wolf
+062            32             30         146            096            -1             //Mutant
+062            32             30         130            105            -1             //Mutant
+062            32             30         148            094            -1             //Mutant
+062            32             30         134            087            -1             //Mutant
+062            32             30         142            104            -1             //Mutant
+062            32             30         145            102            -1             //Mutant
+062            32             30         144            109            -1             //Mutant
+062            32             30         128            085            -1             //Mutant
+062            32             30         142            097            -1             //Mutant
+062            32             30         136            094            -1             //Mutant
+062            32             30         143            103            -1             //Mutant
+062            32             30         129            097            -1             //Mutant
+062            32             30         129            084            -1             //Mutant
+062            32             30         135            095            -1             //Mutant
+062            32             30         122            084            -1             //Mutant
+062            32             30         140            100            -1             //Mutant
+062            32             30         142            108            -1             //Mutant
+062            32             30         146            091            -1             //Mutant
+062            32             30         146            085            -1             //Mutant
+062            32             30         146            100            -1             //Mutant
+057            32             30         149            108            -1             //Iron Wheel
+057            32             30         149            090            -1             //Iron Wheel
+057            32             30         133            103            -1             //Iron Wheel
+057            32             30         130            102            -1             //Iron Wheel
+057            32             30         144            086            -1             //Iron Wheel
+057            32             30         141            104            -1             //Iron Wheel
+057            32             30         147            106            -1             //Iron Wheel
+057            32             30         135            105            -1             //Iron Wheel
+057            32             30         135            106            -1             //Iron Wheel
+057            32             30         125            109            -1             //Iron Wheel
+057            32             30         142            083            -1             //Iron Wheel
+057            32             30         137            085            -1             //Iron Wheel
+057            32             30         132            098            -1             //Iron Wheel
+057            32             30         122            083            -1             //Iron Wheel
+057            32             30         139            107            -1             //Iron Wheel
+058            32             30         143            109            -1             //Tantalos
+058            32             30         144            088            -1             //Tantalos
+058            32             30         147            096            -1             //Tantalos
+058            32             30         147            101            -1             //Tantalos
+058            32             30         140            082            -1             //Tantalos
+058            32             30         140            099            -1             //Tantalos
+058            32             30         138            105            -1             //Tantalos
+058            32             30         135            108            -1             //Tantalos
+058            32             30         129            109            -1             //Tantalos
+058            32             30         140            090            -1             //Tantalos
+058            32             30         149            096            -1             //Tantalos
+058            32             30         128            092            -1             //Tantalos
+058            32             30         145            097            -1             //Tantalos
+058            32             30         128            095            -1             //Tantalos
+058            32             30         122            107            -1             //Tantalos
+292            32             30         131            096            -1             //Queen Bee
+292            32             30         138            090            -1             //Queen Bee
+292            32             30         138            093            -1             //Queen Bee
+292            32             30         132            094            -1             //Queen Bee
+292            32             30         134            102            -1             //Queen Bee
+292            32             30         125            091            -1             //Queen Bee
+292            32             30         142            082            -1             //Queen Bee
+292            32             30         143            105            -1             //Queen Bee
+292            32             30         133            086            -1             //Queen Bee
+292            32             30         137            090            -1             //Queen Bee
+293            32             30         122            082            -1             //Poison Golem
+293            32             30         124            100            -1             //Poison Golem
+293            32             30         142            094            -1             //Poison Golem
+293            32             30         125            090            -1             //Poison Golem
+293            32             30         138            090            -1             //Poison Golem
+293            32             30         131            098            -1             //Poison Golem
+293            32             30         145            089            -1             //Poison Golem
+293            32             30         125            092            -1             //Poison Golem
+293            32             30         141            102            -1             //Poison Golem
+293            32             30         131            086            -1             //Poison Golem
+291            32             30         133            096            -1             //Fire Golem
+291            32             30         125            107            -1             //Fire Golem
+291            32             30         133            084            -1             //Fire Golem
+291            32             30         133            105            -1             //Fire Golem
+291            32             30         134            100            -1             //Fire Golem
+291            32             30         123            086            -1             //Fire Golem
+291            32             30         127            094            -1             //Fire Golem
+291            32             30         149            101            -1             //Fire Golem
+291            32             30         141            090            -1             //Fire Golem
+291            32             30         140            106            -1             //Fire Golem
+end
+
+4
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+069            32             30         138            164            -1             //Alquamos
+069            32             30         127            154            -1             //Alquamos
+069            32             30         138            174            -1             //Alquamos
+069            32             30         134            159            -1             //Alquamos
+069            32             30         129            155            -1             //Alquamos
+069            32             30         149            159            -1             //Alquamos
+069            32             30         131            168            -1             //Alquamos
+069            32             30         142            170            -1             //Alquamos
+069            32             30         137            181            -1             //Alquamos
+069            32             30         149            174            -1             //Alquamos
+069            32             30         130            161            -1             //Alquamos
+069            32             30         147            170            -1             //Alquamos
+069            32             30         151            169            -1             //Alquamos
+069            32             30         137            167            -1             //Alquamos
+069            32             30         131            175            -1             //Alquamos
+069            32             30         151            173            -1             //Alquamos
+069            32             30         133            181            -1             //Alquamos
+069            32             30         125            158            -1             //Alquamos
+069            32             30         132            162            -1             //Alquamos
+069            32             30         124            172            -1             //Alquamos
+071            32             30         148            168            -1             //Mega Crust
+071            32             30         132            177            -1             //Mega Crust
+071            32             30         150            166            -1             //Mega Crust
+071            32             30         136            159            -1             //Mega Crust
+071            32             30         144            176            -1             //Mega Crust
+071            32             30         147            174            -1             //Mega Crust
+071            32             30         146            181            -1             //Mega Crust
+071            32             30         130            157            -1             //Mega Crust
+071            32             30         144            169            -1             //Mega Crust
+071            32             30         138            166            -1             //Mega Crust
+071            32             30         145            175            -1             //Mega Crust
+071            32             30         131            169            -1             //Mega Crust
+071            32             30         131            156            -1             //Mega Crust
+071            32             30         137            167            -1             //Mega Crust
+071            32             30         124            156            -1             //Mega Crust
+071            32             30         142            172            -1             //Mega Crust
+071            32             30         144            180            -1             //Mega Crust
+071            32             30         148            163            -1             //Mega Crust
+071            32             30         148            157            -1             //Mega Crust
+071            32             30         148            172            -1             //Mega Crust
+073            32             30         151            180            -1             //Drakan
+073            32             30         151            162            -1             //Drakan
+073            32             30         135            175            -1             //Drakan
+073            32             30         132            174            -1             //Drakan
+073            32             30         146            158            -1             //Drakan
+073            32             30         143            176            -1             //Drakan
+073            32             30         149            178            -1             //Drakan
+073            32             30         137            177            -1             //Drakan
+073            32             30         137            178            -1             //Drakan
+073            32             30         127            181            -1             //Drakan
+073            32             30         144            155            -1             //Drakan
+073            32             30         139            157            -1             //Drakan
+073            32             30         134            170            -1             //Drakan
+073            32             30         124            155            -1             //Drakan
+073            32             30         141            179            -1             //Drakan
+074            32             30         145            181            -1             //Alpha Crust
+074            32             30         146            160            -1             //Alpha Crust
+074            32             30         149            168            -1             //Alpha Crust
+074            32             30         149            173            -1             //Alpha Crust
+074            32             30         142            154            -1             //Alpha Crust
+074            32             30         142            171            -1             //Alpha Crust
+074            32             30         140            177            -1             //Alpha Crust
+074            32             30         137            180            -1             //Alpha Crust
+074            32             30         131            181            -1             //Alpha Crust
+074            32             30         142            162            -1             //Alpha Crust
+074            32             30         151            168            -1             //Alpha Crust
+074            32             30         130            164            -1             //Alpha Crust
+074            32             30         147            169            -1             //Alpha Crust
+074            32             30         130            167            -1             //Alpha Crust
+074            32             30         124            179            -1             //Alpha Crust
+072            32             30         133            168            -1             //Phantom Knight
+072            32             30         140            162            -1             //Phantom Knight
+072            32             30         140            165            -1             //Phantom Knight
+072            32             30         134            166            -1             //Phantom Knight
+072            32             30         136            174            -1             //Phantom Knight
+072            32             30         127            163            -1             //Phantom Knight
+072            32             30         144            154            -1             //Phantom Knight
+072            32             30         145            177            -1             //Phantom Knight
+072            32             30         135            158            -1             //Phantom Knight
+072            32             30         139            162            -1             //Phantom Knight
+075            32             30         124            154            -1             //Great Drakan
+075            32             30         126            172            -1             //Great Drakan
+075            32             30         144            166            -1             //Great Drakan
+075            32             30         127            162            -1             //Great Drakan
+075            32             30         140            162            -1             //Great Drakan
+075            32             30         133            170            -1             //Great Drakan
+075            32             30         147            161            -1             //Great Drakan
+075            32             30         127            164            -1             //Great Drakan
+075            32             30         143            174            -1             //Great Drakan
+075            32             30         133            158            -1             //Great Drakan
+077            32             30         135            168            -1             //Phoenix of Darkness
+077            32             30         127            179            -1             //Phoenix of Darkness
+077            32             30         135            156            -1             //Phoenix of Darkness
+077            32             30         135            177            -1             //Phoenix of Darkness
+077            32             30         136            172            -1             //Phoenix of Darkness
+077            32             30         125            158            -1             //Phoenix of Darkness
+077            32             30         129            166            -1             //Phoenix of Darkness
+077            32             30         151            173            -1             //Phoenix of Darkness
+077            32             30         143            162            -1             //Phoenix of Darkness
+077            32             30         142            178            -1             //Phoenix of Darkness
+end
+
+4
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+434            32             30         065            150            -1             //Gigantis
+434            32             30         054            140            -1             //Gigantis
+434            32             30         065            160            -1             //Gigantis
+434            32             30         061            145            -1             //Gigantis
+434            32             30         056            141            -1             //Gigantis
+434            32             30         076            145            -1             //Gigantis
+434            32             30         058            154            -1             //Gigantis
+434            32             30         069            156            -1             //Gigantis
+434            32             30         064            167            -1             //Gigantis
+434            32             30         076            160            -1             //Gigantis
+434            32             30         057            147            -1             //Gigantis
+434            32             30         074            156            -1             //Gigantis
+434            32             30         078            155            -1             //Gigantis
+434            32             30         064            153            -1             //Gigantis
+434            32             30         058            161            -1             //Gigantis
+434            32             30         078            159            -1             //Gigantis
+434            32             30         060            167            -1             //Gigantis
+434            32             30         052            144            -1             //Gigantis
+434            32             30         059            148            -1             //Gigantis
+434            32             30         051            158            -1             //Gigantis
+435            32             30         075            154            -1             //Berserker
+435            32             30         059            163            -1             //Berserker
+435            32             30         077            152            -1             //Berserker
+435            32             30         063            145            -1             //Berserker
+435            32             30         071            162            -1             //Berserker
+435            32             30         074            160            -1             //Berserker
+435            32             30         073            167            -1             //Berserker
+435            32             30         057            143            -1             //Berserker
+435            32             30         071            155            -1             //Berserker
+435            32             30         065            152            -1             //Berserker
+435            32             30         072            161            -1             //Berserker
+435            32             30         058            155            -1             //Berserker
+435            32             30         058            142            -1             //Berserker
+435            32             30         064            153            -1             //Berserker
+435            32             30         051            142            -1             //Berserker
+435            32             30         069            158            -1             //Berserker
+435            32             30         071            166            -1             //Berserker
+435            32             30         075            149            -1             //Berserker
+435            32             30         075            143            -1             //Berserker
+435            32             30         075            158            -1             //Berserker
+436            32             30         078            166            -1             //Balram
+436            32             30         078            148            -1             //Balram
+436            32             30         062            161            -1             //Balram
+436            32             30         059            160            -1             //Balram
+436            32             30         073            144            -1             //Balram
+436            32             30         070            162            -1             //Balram
+436            32             30         076            164            -1             //Balram
+436            32             30         064            163            -1             //Balram
+436            32             30         064            164            -1             //Balram
+436            32             30         054            167            -1             //Balram
+436            32             30         071            141            -1             //Balram
+436            32             30         066            143            -1             //Balram
+436            32             30         061            156            -1             //Balram
+436            32             30         051            141            -1             //Balram
+436            32             30         068            165            -1             //Balram
+437            32             30         072            167            -1             //Soram
+437            32             30         073            146            -1             //Soram
+437            32             30         076            154            -1             //Soram
+437            32             30         076            159            -1             //Soram
+437            32             30         069            140            -1             //Soram
+437            32             30         069            157            -1             //Soram
+437            32             30         067            163            -1             //Soram
+437            32             30         064            166            -1             //Soram
+437            32             30         058            167            -1             //Soram
+437            32             30         069            148            -1             //Soram
+437            32             30         078            154            -1             //Soram
+437            32             30         057            150            -1             //Soram
+437            32             30         074            155            -1             //Soram
+437            32             30         057            153            -1             //Soram
+437            32             30         051            165            -1             //Soram
+438            32             30         060            154            -1             //Persona
+438            32             30         067            148            -1             //Persona
+438            32             30         067            151            -1             //Persona
+438            32             30         061            152            -1             //Persona
+438            32             30         063            160            -1             //Persona
+438            32             30         054            149            -1             //Persona
+438            32             30         071            140            -1             //Persona
+438            32             30         072            163            -1             //Persona
+438            32             30         062            144            -1             //Persona
+438            32             30         066            148            -1             //Persona
+439            32             30         051            140            -1             //Dreadfear
+439            32             30         053            158            -1             //Dreadfear
+439            32             30         071            152            -1             //Dreadfear
+439            32             30         054            148            -1             //Dreadfear
+439            32             30         067            148            -1             //Dreadfear
+439            32             30         060            156            -1             //Dreadfear
+439            32             30         074            147            -1             //Dreadfear
+439            32             30         054            150            -1             //Dreadfear
+439            32             30         070            160            -1             //Dreadfear
+439            32             30         060            144            -1             //Dreadfear
+440            32             30         062            154            -1             //Dark Elf
+440            32             30         054            165            -1             //Dark Elf
+440            32             30         062            142            -1             //Dark Elf
+440            32             30         062            163            -1             //Dark Elf
+440            32             30         063            158            -1             //Dark Elf
+440            32             30         052            144            -1             //Dark Elf
+440            32             30         056            152            -1             //Dark Elf
+440            32             30         078            159            -1             //Dark Elf
+440            32             30         070            148            -1             //Dark Elf
+440            32             30         069            164            -1             //Dark Elf
+end
